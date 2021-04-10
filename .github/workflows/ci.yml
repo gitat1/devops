@@ -31,5 +31,5 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-        echo Default branch is: [ $default-branch ], that uses $GITHUB_WORKSPACE
+        # echo Default branch is: [ $default-branch ], that uses $GITHUB_WORKSPACE
         
