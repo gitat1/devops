@@ -1,3 +1,3 @@
-FROM alpine:3.13
-RUN mkdir –p /home/app/data
-COPY . /home/app/data
+FROM ubuntu-latest
+RUN mkdir –p /home/data
+COPY . /home/data
